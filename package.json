@@ -1,0 +1,25 @@
+{
+    "name": "neural-numbers",
+    "version": "0.0.1",
+    "description": "A simple demo script on how to create and train a neural network capable to compare a pair of integer numbers.",
+    "author": "Nikolay Kultashev <nkultashev@yandex.ru>",
+    "main": "nnums.js",
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:nkultashev/neural-numbers.git"
+    },
+    "bugs": {
+      "url": "https://github.com/nkultashev/neural-numbers/issues"
+    },
+    "keywords": [
+      "neuralnetwork",
+      "neuronet"
+    ],
+    "dependencies": {
+      "brain": ">=1.1.2",
+    },
+    "preferGlobal": false,
+    "private": false,
+    "license": "UNLICENSED"
+  }
+  
