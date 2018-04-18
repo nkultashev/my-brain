@@ -16,7 +16,9 @@
     "neuronet"
   ],
   "dependencies": {
-    "brain.js": "^1.1.2"
+    "brain.js": "^1.1.2",
+    "node-mind": "^1.0.1",
+    "synaptic": "^1.1.4"
   },
   "preferGlobal": false,
   "private": false,
