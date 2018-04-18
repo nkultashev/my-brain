@@ -1,2 +1,4 @@
 #except for
 /node_modules/
+.idea
+*.iml
